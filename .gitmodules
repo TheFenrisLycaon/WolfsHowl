@@ -1,1 +1,5 @@
 
+[submodule "src/public"]
+	path = src/public
+	url = https://github.com/TheFenrisLycaon/thefenrislycaon.github.io.git
+	branch = master
