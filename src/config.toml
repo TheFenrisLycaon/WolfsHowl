@@ -1,5 +1,4 @@
 baseURL = 'https://thefenrislycaon.github.io/'
 languageCode = 'en-us'
-title = "Rishabh Anand"
-
+title = 'Rishabh Anand'
 theme = 'dimension'
